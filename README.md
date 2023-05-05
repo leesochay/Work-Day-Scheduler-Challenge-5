@@ -11,7 +11,7 @@ I am still working on capturing the text input and saving to local storage.
 
 I have included a screenshot of the calendar page albeit with the past time color code for all timeblocks.
 
-![Lee Sochay Portfolio page screenshot](assets/images/LeeSochayPortfolioScreenshot.jpg)
+![Lee Sochay Workday Scheduler page screenshot](/LeeSochayPortfolioScreenshot.jpg)
 
 The project in process can be viewed at [leesochay.github.io/Lee-Sochay-Portfolio](https://leesochay.github.io/Lee-Sochay-Portfolio/).
 
