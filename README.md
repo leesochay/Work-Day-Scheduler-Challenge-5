@@ -13,7 +13,7 @@ I have included a screenshot of the calendar page albeit with the past time colo
 
 ![Lee Sochay Workday Scheduler page screenshot](/work-day-scheduler-screenshot.png)
 
-The project in process can be viewed at [leesochay.github.io/Lee-Sochay-Portfolio](https://leesochay.github.io/Lee-Sochay-Portfolio/).
+The project in process can be viewed at [leesochay.github.io/Work-Day-Scheduler-Challenge-5](https://leesochay.github.io/Work-Day-Scheduler-Challenge-5/).
 
 ## License
 
